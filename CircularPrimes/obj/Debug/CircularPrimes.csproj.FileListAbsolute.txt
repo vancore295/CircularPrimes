@@ -1,0 +1,6 @@
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.exe.config
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.exe
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.pdb
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.csprojResolveAssemblyReference.cache
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.exe
+c:\users\bomani kernizan\documents\visual studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.pdb

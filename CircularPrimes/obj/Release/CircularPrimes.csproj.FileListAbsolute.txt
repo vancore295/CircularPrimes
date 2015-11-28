@@ -1,0 +1,5 @@
+C:\Users\Bomani Kernizan\Documents\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Release\CircularPrimes.exe.config
+C:\Users\Bomani Kernizan\Documents\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Release\CircularPrimes.exe
+C:\Users\Bomani Kernizan\Documents\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Release\CircularPrimes.pdb
+C:\Users\Bomani Kernizan\Documents\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Release\CircularPrimes.exe
+C:\Users\Bomani Kernizan\Documents\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Release\CircularPrimes.pdb
